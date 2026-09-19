@@ -1,7 +1,10 @@
 # Meridian Intelligence
 *An intelligence platform that turns scattered, fast-moving information into a clear, connected picture — for faster research and better-informed decisions.*
 
-🔗 Live: [meridianintel.nl](https://meridianintel.nl/) · 🌐 Portfolio: [yassinc.nl](https://yassinc.nl/)
+🔗 Live: [meridianintel.nl](https://meridianintel.nl/) · 🌐 Portfolio: [yassinc.nl](https://yassinc.nl/) 
+
+![Meridian Intelligence — Map View](assets/meridian-map-view.png)
+
 
 ## Overview
 
