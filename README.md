@@ -3,7 +3,7 @@
 
 🔗 Live: [meridianintel.nl](https://meridianintel.nl/) · 🌐 Portfolio: [yassinc.nl](https://yassinc.nl/) 
 
-![Meridian Intelligence — Map View](assets/meridian-map-view.png)
+<img width="1513" height="1040" alt="image" src="https://github.com/user-attachments/assets/69cc6ca5-cf47-4f9c-9f19-0cf37a29fb3f" />
 
 
 ## Overview
